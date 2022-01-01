@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "8b0d23a1211e2b6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c08cb656dce1765b",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Lua/3-Books/Programming-in-Lua-4e.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea04fbb5e697da94",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fa91c7994a8c681",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c97f1d671f752d2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "572dbf3e0314843f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "795602f2a7254de5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfa2e897921ac99c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b59a2ca99d529a42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6df0b2d37f523665",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lua/3-Books/Programming-in-Lua-4e.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7eb591916a5414a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lua/3-Books/Programming-in-Lua-4e.pdf"
+              }
+            }
+          },
+          {
+            "id": "040ff137cb8b269d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e6b32fddd247ea0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lua/3-Books/Programming-in-Lua-4e.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c08cb656dce1765b",
+  "lastOpenFiles": [
+    "Lua/3-Books/Programming-in-Lua-4e.pdf",
+    "Lua/3-Books/Programming-in-Lua-4e.md",
+    "Highlights for Programming_in_Lua,_4th_ed._(2017)_.md",
+    "Lua/1-Notes/202201012337-Getting-Started.md",
+    "202201012344.md",
+    "Untitled.md",
+    "Lua/1-Notes/Untitled.md",
+    "Lua/Lua.md",
+    "Lua/2-Programs/Test Note.md"
+  ]
+}
