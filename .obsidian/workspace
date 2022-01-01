@@ -7,9 +7,11 @@
         "id": "c08cb656dce1765b",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Lua/3-Books/Programming-in-Lua-4e.pdf"
+            "file": "Lua/Lua.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -59,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bfa2e897921ac99c",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/3-Books/Programming-in-Lua-4e.pdf",
+                "file": "Lua/Lua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/3-Books/Programming-in-Lua-4e.pdf"
+                "file": "Lua/Lua.md"
               }
             }
           },
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/3-Books/Programming-in-Lua-4e.pdf",
+                "file": "Lua/Lua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,6 +130,7 @@
   },
   "active": "c08cb656dce1765b",
   "lastOpenFiles": [
+    "Lua/Lua.md",
     "Lua/3-Books/Programming-in-Lua-4e.pdf",
     "Lua/3-Books/Programming-in-Lua-4e.md",
     "Highlights for Programming_in_Lua,_4th_ed._(2017)_.md",
@@ -136,7 +138,6 @@
     "202201012344.md",
     "Untitled.md",
     "Lua/1-Notes/Untitled.md",
-    "Lua/Lua.md",
     "Lua/2-Programs/Test Note.md"
   ]
 }
