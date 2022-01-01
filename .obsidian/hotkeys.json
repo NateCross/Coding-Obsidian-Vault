@@ -23,5 +23,23 @@
       ],
       "key": "Q"
     }
+  ],
+  "app:go-back": [],
+  "app:go-forward": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:toggle-italics": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }
