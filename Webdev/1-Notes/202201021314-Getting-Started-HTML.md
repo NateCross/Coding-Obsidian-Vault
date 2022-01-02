@@ -16,6 +16,6 @@
 ### Naming Conventions
 - Use this as your reference from here on out. Naming is important, as per Clean Code.
 	- The book advised to follow its style when doing exercises. Of course, not every place will follow the same style. But this will be used for the book.
-- Use only lowercase characters.
-- Avoid spaces.
-- Stick to 0-9, a-z, and underscore (_).
+- ==Use only lowercase characters.==
+- ==Avoid spaces.==
+- ==Stick to 0-9, a-z, and underscore.==
