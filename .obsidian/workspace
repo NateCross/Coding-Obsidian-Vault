@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lua/Lua.md",
+            "file": "ZK-Notes/202201021314-Getting-Started-HTML.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/Lua.md",
+                "file": "ZK-Notes/202201021314-Getting-Started-HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/Lua.md"
+                "file": "ZK-Notes/202201021314-Getting-Started-HTML.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Lua.md",
+                "file": "ZK-Notes/202201021314-Getting-Started-HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +130,7 @@
   },
   "active": "c08cb656dce1765b",
   "lastOpenFiles": [
+    "ZK-Notes/202201021314-Getting-Started-HTML.md",
     "Lua/Lua.md",
     "Lua/1-Notes/202201012337-Getting-Started.md",
     "Lua/3-Books/Programming-in-Lua-4e.pdf",
