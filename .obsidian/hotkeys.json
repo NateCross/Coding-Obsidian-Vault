@@ -41,5 +41,13 @@
       ],
       "key": "P"
     }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
   ]
 }
