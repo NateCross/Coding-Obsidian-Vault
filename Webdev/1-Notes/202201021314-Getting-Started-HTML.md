@@ -24,3 +24,16 @@
 ## 2. Creating Paragraphs
 - P. 60 of [[A Smarter Way to Learn HTML and CSS.pdf]]
 - Created the folder *chap-2-my-smarter-site*. As per the instructions.
+	- Tested the live reload function. Here's the workflow:
+		- Edit the html files in Neovim. No problem.
+		- Go to the project root, where all the HTML files are, in another terminal.
+		- Enter the following:
+```
+# aliased to a command of browser-sync that allows live-reload
+serve
+```
+It should load up the website just fine.
+- We made use of the <p> tag.
+	- Essentially allows us to make a line-break. It's literally a paragraph tag, so yeah.
+		- Should come in handy once we go back to CSS stuff.
+- Also, yes, tags. They come in pairs -
