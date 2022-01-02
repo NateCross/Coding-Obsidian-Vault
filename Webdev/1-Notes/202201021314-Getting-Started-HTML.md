@@ -33,7 +33,11 @@
 serve
 ```
 It should load up the website just fine.
-- We made use of the <p> tag.
+- We made use of the &lt;p> tag.
 	- Essentially allows us to make a line-break. It's literally a paragraph tag, so yeah.
 		- Should come in handy once we go back to CSS stuff.
-- Also, yes, tags. They come in pairs -
+- Also, yes, tags. They come in pairs -- an opening and closing tag.
+	- Don't forget that the closing tag has a "/".
+	- Seriously, don't forget to close your tags.
+	- Ex. &lt;p>Some text&lt;/p>
+- Uppercase tags technically do work, but are not recommended because style guide.
