@@ -1,5 +1,6 @@
 # Getting Started with HTML and CSS
 ## 1. HTML and CSS
+- We are starting our journey with [[A Smarter Way to Learn HTML and CSS.pdf]].
 - p. 48 of PDF
 - These are the very fundamentals; the basics of why HTML and CSS work and stuff.
 	- HTML
@@ -21,4 +22,5 @@
 - ==Stick to 0-9, a-z, and underscore.==
 
 ## 2. Creating Paragraphs
-- 
+- P. 60 of [[A Smarter Way to Learn HTML and CSS.pdf]]
+- Created the folder *chap-2-my-smarter-site*. As per the instructions.
