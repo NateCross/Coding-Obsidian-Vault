@@ -1,4 +1,4 @@
-# Getting Started with HTML
+# Getting Started with HTML and CSS
 ## 1. HTML and CSS
 - p. 48 of PDF
 - These are the very fundamentals; the basics of why HTML and CSS work and stuff.
@@ -19,3 +19,6 @@
 - ==Use only lowercase characters.==
 - ==Avoid spaces.==
 - ==Stick to 0-9, a-z, and underscore.==
+
+## 2. Creating Paragraphs
+- 
