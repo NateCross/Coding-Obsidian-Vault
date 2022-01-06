@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Webdev/1-Notes/202201021314-Getting-Started-HTML.md",
+            "file": "Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bfa2e897921ac99c",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webdev/1-Notes/202201021314-Getting-Started-HTML.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webdev/1-Notes/202201021314-Getting-Started-HTML.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webdev/1-Notes/202201021314-Getting-Started-HTML.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,6 +130,8 @@
   },
   "active": "3e9efa6a95666be0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Shell/1-Notes/Variables.md",
     "Webdev/1-Notes/202201021314-Getting-Started-HTML.md",
     "Python/1-Notes.md",
     "Lua/Lua.md",
@@ -138,8 +139,6 @@
     "Lua/3-Books/Programming-in-Lua-4e.pdf",
     "Lua/3-Books/Programming-in-Lua-4e.md",
     "Highlights for Programming_in_Lua,_4th_ed._(2017)_.md",
-    "202201012344.md",
-    "Untitled.md",
-    "Lua/1-Notes/Untitled.md"
+    "202201012344.md"
   ]
 }
