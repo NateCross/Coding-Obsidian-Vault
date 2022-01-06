@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shell/1-Notes/_Quick-Reminders.md",
+            "file": "Shell/1-Notes/Variables.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell/1-Notes/_Quick-Reminders.md",
+                "file": "Shell/1-Notes/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell/1-Notes/_Quick-Reminders.md"
+                "file": "Shell/1-Notes/Variables.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shell/1-Notes/_Quick-Reminders.md",
+                "file": "Shell/1-Notes/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,8 +131,8 @@
   },
   "active": "3e9efa6a95666be0",
   "lastOpenFiles": [
-    "Shell/1-Notes/_Quick-Reminders.md",
     "Shell/1-Notes/Variables.md",
+    "Shell/1-Notes/_Quick-Reminders.md",
     "Webdev/1-Notes/202201021314-Getting-Started-HTML.md",
     "Python/1-Notes.md",
     "Lua/Lua.md",

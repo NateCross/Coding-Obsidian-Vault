@@ -3,14 +3,20 @@
 ```sh
 # Setting a variable
 variable=value
+complexvar="Hello World"
+sampledir=/etc
+
 # Reading a variable
-echo $variable # prints value
+echo $variable $complexvar # prints value
+ls $sampledir
 ```
 - Bash is case-sensitive.
 - When assigning variables, you do not need the $.
 	- You only use $ when reading a variable.
 <mark style="background: #FFF3A3A6;">	- There are also no spaces before and after the equals sign.</mark> 
 - Prefer uppercase for environment variables; lowercase for local.
+- Note on double quotes and single quotes
+	- Single quotes treat every character literal
 # Special Variables
 [Source](https://ryanstutorials.net/bash-scripting-tutorial/bash-variables.php)
 - **$0** - The name of the Bash script.
