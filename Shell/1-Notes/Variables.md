@@ -42,6 +42,47 @@ export var1
 ./script2.sh
 ```
 - See full example from website below
-**Script
+
+**script1.sh**
 ```sh
+#!/bin/bash
+# demonstrate variable scope 1.
+
+var1=blah
+var2=foo
+
+# Let's verify their current value
+
+echo $0 :: var1 : $var1, var2 : $var2
+
+export var1
+./script2.sh
+
+# Let's see what they are now
+
+echo $0 :: var1 : $var1, var2 : $var2
 ```
+
+**script2.sh**
+```sh
+#!/bin/bash
+# demonstrate variable scope 2
+
+# Let's verify their current value
+
+echo $0 :: var1 : $var1, var2 : $var2
+
+# Let's change their values
+
+var1=flop
+var2=bleh
+```
+
+*output*
+```sh
+script1.sh :: var1 : blah, var2 : foo
+script2.sh :: var1 : blah, var2 :
+script1.sh :: var1 : blah, var2 : foo
+```
+- script1.sh, after the values were changed in script2.sh, did not change.
+- Exporting is necessary to have it changed.
