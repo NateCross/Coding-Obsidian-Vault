@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Shell/1-Notes/_Quick-Reminders.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bfa2e897921ac99c",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Shell/1-Notes/_Quick-Reminders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Shell/1-Notes/_Quick-Reminders.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Shell/1-Notes/_Quick-Reminders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
   },
   "active": "3e9efa6a95666be0",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Shell/1-Notes/_Quick-Reminders.md",
     "Shell/1-Notes/Variables.md",
     "Webdev/1-Notes/202201021314-Getting-Started-HTML.md",
     "Python/1-Notes.md",

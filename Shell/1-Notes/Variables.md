@@ -1,8 +1,16 @@
 # Setting Variables
 ### Syntax
 ```sh
+# Setting a variable
 variable=value
+# Reading a variable
+echo $variable # prints value
 ```
+- Bash is case-sensitive.
+- When assigning variables, you do not need the $.
+	- You only use $ when reading a variable.
+<mark style="background: #FFF3A3A6;">	- There are also no spaces before and after the equals sign.</mark> 
+- Prefer uppercase for environment variables; lowercase for local.
 # Special Variables
 [Source](https://ryanstutorials.net/bash-scripting-tutorial/bash-variables.php)
 - **$0** - The name of the Bash script.
