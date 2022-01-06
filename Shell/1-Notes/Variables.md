@@ -33,3 +33,15 @@ ls $sampledir
 - **$SECONDS** - The number of seconds since the script was started.
 - **$RANDOM** - Returns a different random number each time is it referred to.
 - **$LINENO** - Returns the current line number in the Bash script.
+
+# Exporting
+- Variables are only valid locally, in the process they were created in.
+- To use in another script or something, we must do
+```sh
+export var1
+./script2.sh
+```
+- See full example from website below
+**Script
+```sh
+```
