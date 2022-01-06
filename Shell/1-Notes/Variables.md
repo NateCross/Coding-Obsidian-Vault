@@ -5,6 +5,8 @@
 variable=value
 complexvar="Hello World"
 sampledir=/etc
+entries=$( ls /etc | wc -l ) # Command substitution
+													   # It actually strips newlines, too
 
 # Reading a variable
 echo $variable $complexvar # prints value
@@ -15,8 +17,9 @@ ls $sampledir
 	- You only use $ when reading a variable.
 <mark style="background: #FFF3A3A6;">	- There are also no spaces before and after the equals sign.</mark> 
 - Prefer uppercase for environment variables; lowercase for local.
-- Note on double quotes and single quotes
-	- Single quotes treat every character literal
+<mark style="background: #FFF3A3A6;">- Note on double quotes and single quotes</mark> 
+	- Single quotes treat every character literally.
+	- Double quotes allow for substitution (like including variables within its setting)
 # Special Variables
 [Source](https://ryanstutorials.net/bash-scripting-tutorial/bash-variables.php)
 - **$0** - The name of the Bash script.
