@@ -1,0 +1,14 @@
+Permissions Size User Date Modified Name
+.rwxrwxr-x   134 nate  6 Jan 14:16  echo-stuff-you-export-into-me.sh
+.rw-rw-r--     0 nate  9 Jan 11:17  exa-lh-test.txt
+.rwxrwxr-x   313 nate  6 Jan 13:29  hello-world.sh
+.rw-rw-r--   197 nate  7 Jan 08:07  my-sample-data.txt
+.rw-rw-r--   242 nate  7 Jan 08:18  my-sample-data2.txt
+.rw-rw-r--   206 nate  9 Jan 11:15  myoutput
+.rw-rw-r--   197 nate  9 Jan 11:14  myoutput.txt
+.rwxrwxr-x   244 nate  6 Jan 14:19  prints-numbers-in-arguments.sh
+.rw-rw-r--    46 nate  7 Jan 08:06  sed-test.txt
+.rwxrwxr-x   191 nate  6 Jan 13:40  simple-copy.sh
+.rwxrwxr-x   154 nate  6 Jan 13:54  simple-variables.sh
+drwxrwxr-x     - nate  9 Jan 10:46  test-dir
+.rw-rw-r--     0 nate  6 Jan 13:40  test.txt

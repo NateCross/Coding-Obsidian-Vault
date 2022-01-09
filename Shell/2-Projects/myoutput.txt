@@ -1,0 +1,11 @@
+echo-stuff-you-export-into-me.sh
+hello-world.sh
+my-sample-data.txt
+my-sample-data2.txt
+myoutput.txt
+prints-numbers-in-arguments.sh
+sed-test.txt
+simple-copy.sh
+simple-variables.sh
+test-dir
+test.txt
