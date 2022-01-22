@@ -7,8 +7,11 @@
 # through a Discord bot
 
 # USAGE
-#   -h                   help
-#   "A video name"       Yeah
+# ./yt2disc.sh "name of video"
+
+# If the command line argument is not supplied, it will prompt
+# a search for a video. It is already enclosed in parentheses so
+# you can search directly.
 
 # The "-x" tests if the file is executable
 if ! [ -x "$(command -v xdotool)" ]; then
@@ -20,6 +23,13 @@ if ! [ -x "$(command -v ytfzf)" ]; then
     echo "No ytfzf found.\nExiting..."
     exit 1
 fi
+
+if ! [ -x "$(command -v catimg)" ]; then
+    thumbviewer=
+    echo "catimg not found. Disabling thumbnail support..."
+fi
+
+thumbviewer=catimg
 
 # Credit: https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux
 RED='\033[0;31m'
@@ -42,7 +52,7 @@ else
     echo -e "${NO_COLOR}"
 fi
 
-original_link=$(ytfzf -L "${userinput}")
+original_link=$(ytfzf -t --thumb-viewer=${thumbviewer} -L "${userinput}")
 
 if [ -z "$original_link" ]; then
     echo "Exiting..."
@@ -55,9 +65,13 @@ fi
 # Thus, it must be converted into a proper Youtube link
 
 converted_link=$(echo $original_link | sed 's/vid\.puffyan\.us/youtube\.com/')
+eval $(xdotool getmouselocation --shell)
 
-xdotool windowactivate --sync $discord_window_id type ";;play ${converted_link}"
+xdotool windowactivate --sync $discord_window_id
+xdotool mousemove 2335 710 click 1
+xdotool type ";;play ${converted_link}"
 xdotool key Return
 xdotool windowactivate $original_focused_window
+xdotool mousemove $X $Y     # Values taken from the eval
 
 echo "Finished"
