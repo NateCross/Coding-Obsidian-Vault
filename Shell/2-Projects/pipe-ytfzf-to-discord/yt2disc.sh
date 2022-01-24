@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This program seeks to use ytfzf to get a Youtube link
-# then, the link changed to a proper Youtube link
+# then, the link is changed to a proper Youtube link
 # which will be used to type in a command in Discord
 # Thus, you can search a Youtube vid in command line and have it play
 # through a Discord bot
@@ -12,6 +12,8 @@
 # If the command line argument is not supplied, it will prompt
 # a search for a video. It is already enclosed in parentheses so
 # you can search directly.
+
+thumbviewer=
 
 # The "-x" tests if the file is executable
 if ! [ -x "$(command -v xdotool)" ]; then
@@ -24,12 +26,10 @@ if ! [ -x "$(command -v ytfzf)" ]; then
     exit 1
 fi
 
-if ! [ -x "$(command -v catimg)" ]; then
-    thumbviewer=
+if [ -x "$(command -v catimg)" ]; then
+    thumbviewer=catimg
     echo "catimg not found. Disabling thumbnail support..."
 fi
-
-thumbviewer=catimg
 
 # Credit: https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux
 RED='\033[0;31m'
