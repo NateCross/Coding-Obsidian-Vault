@@ -1,0 +1,52 @@
+# Chapter 2: How the Web Works 
+- Computers known as servers "serve up" documents upon request.
+    - Nothing special about these servers hardware-wise; it's in the software.
+    - Typically uses Apache (Unix) or Microsoft Internet Information Services
+- If a webpage doesn't end with a filename, that's because it's actually accessing index.html or whatever the default name for webpages in a certain directory are.
+- Performance tip
+    - If you want to minimize round trips to the server, include slashes at the end of dir names in URLs in your link.
+
+# Chapter 3: Some Big Concepts You Need to Know
+- A multitude of devices
+    - Devices have different screen sizes
+        - ![[Pasted image 20220201110048.png]]
+    - Also don't make any assumptions on network speed; users may have slow connection
+    - Technically no such thing as a "mobile web," it's all just one web
+    - _Mobile First_ by Luke Wroblewski
+- Sticking with the standards
+    - Follow the guidelines set by the World Wide Web Consortium (W3C)
+        - Primary tool for ensuring consistency and forwards-compatibility
+    - _[W3C Standards](https://w3.org/standards)_
+    - _Designing with Web Standards, 3rd Edition_ by Jeffrey Zeldman
+        - Kinda dated but still solid
+- Progressive Enhancement
+    - Strategy for dealing with unknown browser capabilities
+        - A flip side to __graceful degradation__, wherein you design the full experience first and create fallbacks in case things aren't supported by the browser.
+    - Start with a baseline experience that makes content available to all browsers and assistive devices.
+    - Layer on advanced features for browsers that can handle them.
+    - Least priority would be animations
+    - Informs all aspects of page design and production
+        - Authoring strategy
+            - The HTML document must be written in logical order and its elements marked up in a meaningful way
+            - Keep accessibility in mind
+        - Styling strategy
+            - Create layers of experience by taking advantage of style sheet rules
+            - Start with basic things, like a red background, then add a gradient with a check if the browser supports gradients.
+                - Can also use a cutting edge CSS selector to deliver certain styles only to cutting edge browsers.
+        - Scripting strategy
+            - Ensure basic functionality works, like linking from page to page and accomplishing essential tasks even if JavaScript is off.
+    - _Adaptive Web Design: Crafting Rich Experiences with Progressive Enhancement, 2nd Edition_
+    - _The Uncertain Web: Web Development in a Changing Landscape_
+    - _Designing with Progressive Enhancement_
+- Responsive Web Design
+    - Provide appropriate layouts depending on the size of the viewport (browser window).
+    - Serve a single HTML document to all devices, but apply different style sheets based on the screen size
+        - For mobile, make things appear in one column with large links for easy tapping.
+        - For desktop, multiple columns with traditional navigation elements.
+        - This is possible with CSS.
+    - ![[Pasted image 20220201113717.png]]
+    - It may be preferable to build a separate mobile site with a customized interface and feature set
+        - M-dot sites
+            - URLs begin with "m." or "mobile"
+            - Good if mobile and desktop users have different usage patterns
+            - Response Web Design is not a universal solution. It works best for text content. For complex sites, a different experience is preferred.
