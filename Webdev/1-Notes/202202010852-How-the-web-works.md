@@ -76,4 +76,8 @@
         - Keep JS to a minimum
         - Add scripts in such a way that they load in parallel with other page assets and don't block rendering
         - Don't load unnecessary assets
-        - Reduce the number of times the browse
+        - Reduce the number of times the browser makes requests to the server
+            - You can gauge this through the Network tool in the Dev tools of a browser
+    - _[Lara Hogan's Site](https://larahogan.me/design)_
+    - _High Performance Mobile Web: Best Practices for Optimizing Mobile Web Apps_
+    - [Make the Web Faster](https://code.google.com/speed/)
