@@ -50,3 +50,17 @@
             - URLs begin with "m." or "mobile"
             - Good if mobile and desktop users have different usage patterns
             - Response Web Design is not a universal solution. It works best for text content. For complex sites, a different experience is preferred.
+- Accessibility
+    - Vision impairment
+        - Screen reader
+        - Braille
+        - Screen magnifier
+    - Mobility impairment
+        - Modified mice and keyboards
+        - Foot pedals
+        - Voice commands
+    - Auditory impairment
+        - Transcripts for audio and video
+    - Cognitive impairment
+        - Design sites clearly to help with memory and reading comprehension
+    - The W3C started the [Web Accessibility Initiative](https://w3.org/WAI). Good starting point to learn about web accessibility.
