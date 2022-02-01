@@ -64,3 +64,16 @@
     - Cognitive impairment
         - Design sites clearly to help with memory and reading comprehension
     - The W3C started the [Web Accessibility Initiative](https://w3.org/WAI). Good starting point to learn about web accessibility.
+- Site Performance
+    - Still critical even though less people use dial-up and stuff
+    - How
+        - Limit filesizes
+        - Reduce requests to a server
+    - Other examples
+        - Optimize images to have the smallest file size possible without sacrificing quality
+        - Streamline HTML, avoid unnecessary levels of nested elements
+        - Minimize HTML and CSS documents by removing extra spaces and returns
+        - Keep JS to a minimum
+        - Add scripts in such a way that they load in parallel with other page assets and don't block rendering
+        - Don't load unnecessary assets
+        - Reduce the number of times the browse
