@@ -1,8 +1,14 @@
+body {
+    color: #111111;
+}
+
 h1 {
     color: red;
     font-size: 5em;
 }
 
-body {
-    color: #111111;
+p {
+    color: #dddddd;
+    font-size: 1em;
 }
+
