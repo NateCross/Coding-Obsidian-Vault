@@ -15,5 +15,12 @@
 | em   | Relative to the font-size of element (2em means 2 times size of current font) |
 | ex   | Relative to the x-height of current font (rarely used)                        |
 | ch   | Relative to the width of the "0" (zero)                                       |
-| rem  | Relative                                                                              |
+| rem  | Relative to font-size of the root element                                     |
+| vw   | Relative to 1% of the width of the viewport                                   |
+| vh   | Relative to 1% of the height of the viewport                                  |
+| vmin | Relative to 1% of the viewport's smaller dimension                            |
+| vmax | Relative to 1% of the viewport's larger dimension                             |
+| %    | Relative to the parent element                                                                              |
+Note: ==em== and ==rem== are practical in creating scalable layout;
+#
 [^Note]: Relative to viewing device. For low-dpi, it literally means 1 dot. But for printers and other high resolution screens, 1px is multiple pixels.
