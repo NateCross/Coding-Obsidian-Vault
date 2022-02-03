@@ -4,12 +4,15 @@
     or a "#" character. The characters should form a chessboard.
 */
 
-const size = 8;
+// const size = 8;
 
-for (let i = 1; i <= 8; i++) {
+const height = 10;
+const width = 8;
+
+for (let i = 1; i <= height; i++) {
     let lineOutput = "";
-    for (let j = 1; j <= size; j++) {
-        if ((i + j) % 2 == 0) {
+    for (let j = 1; j <= width; j++) {
+        if ((i + j) % 2 === 0) {
             lineOutput += " ";
         }
         else {
