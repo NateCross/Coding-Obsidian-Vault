@@ -12,7 +12,7 @@ for (let i = 1; i <= 7; i++) {
     console.log(triangle);
 }
 
-console.log("---OTHER METHOD---");
+console.log("\n---OTHER METHOD---\n");
 
 // Using String.repeat()
 const triangleString = "#";
