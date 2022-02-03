@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Webdev/1-Notes/CSS Units.md",
+            "file": "Webdev/1-Notes/202202031331.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webdev/1-Notes/CSS Units.md",
+                "file": "Webdev/1-Notes/202202031331.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webdev/1-Notes/CSS Units.md"
+                "file": "Webdev/1-Notes/202202031331.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webdev/1-Notes/CSS Units.md",
+                "file": "Webdev/1-Notes/202202031331.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,6 +157,7 @@
   },
   "active": "3e9efa6a95666be0",
   "lastOpenFiles": [
+    "Webdev/1-Notes/202202031331.md",
     "Webdev/1-Notes/CSS Units.md",
     "Webdev/1-Notes/202202010852-How-the-web-works.md",
     "Webdev/1-Notes/202201251034-Learning-Web-Design-1.md",
@@ -165,7 +166,6 @@
     "Lua/Lua.md",
     "Shell/4-Designs/Drawing 2022-01-31 11.28.31.excalidraw.md",
     "General/1-Notes/Drawing 2022-01-28 09.56.27.excalidraw.md",
-    "General/3-Books/_The_Pragmatic_Programmer.pdf",
-    "Conferences/Asenso Pilipinas 2022/Antony Cook.md"
+    "General/3-Books/_The_Pragmatic_Programmer.pdf"
   ]
 }
