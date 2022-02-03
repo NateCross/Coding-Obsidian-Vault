@@ -1,3 +1,3 @@
-let inputTest = prompt("Enter something: ");
+let inputTest = 1;
 
 console.log(`You input: ${inputTest}.`);
