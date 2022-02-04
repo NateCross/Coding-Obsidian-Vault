@@ -30,3 +30,10 @@
     - Stippling
     - Scribbling
     - Weaving
+# Assignment
+- Cut long bond by 2x13 inch strips
+    - 32 boxes on strips
+    - Gradient shade 1 strip with ink
+    - The other with pencil
+- Draw an object, keep in mind shading, lighting. Per day.
+    - After drawing, take a pic of reference.
