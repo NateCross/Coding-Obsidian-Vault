@@ -20,3 +20,5 @@ const isEvenRecursive = num => {
 console.log(isEvenRecursive(50));
 console.log(isEvenRecursive(75));
 console.log(isEvenRecursive(-1));
+
+console.log(1 + 2);
