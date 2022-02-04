@@ -19,3 +19,14 @@
 ![[Pasted image 20220204155023.png]]
 ![[Pasted image 20220204160144.png]]
 - If you start a painting, if you're making a bright painting, start with the neutral brown to evoke more vibrancy; whereas if you start with cooler, you start with grey/blue, background.
+# Shading
+- In pencil, multiple techniques
+    - Filling, hatching
+        - There's smudging for graphite pencil
+- 6 methods of shading
+    - Flat
+    - Hatching
+    - Crosshatching
+    - Stippling
+    - Scribbling
+    - Weaving
