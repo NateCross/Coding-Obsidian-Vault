@@ -18,3 +18,4 @@
 - When you draw on a surface hard enough, you can't really erase the marking
 ![[Pasted image 20220204155023.png]]
 ![[Pasted image 20220204160144.png]]
+- If you start a painting, if you're making a bright painting, start with the neutral brown to evoke more vibrancy; whereas if you start with cooler, you start with grey/blue, background.
