@@ -15,12 +15,22 @@
 
 const countBs = string => {
   let charCounter = 0;
-  for (let char in string) {
-    if (string[char] === 'B')
+  for (let i in string) {
+    if (string[i] === 'B')
       ++charCounter;
   }
   return charCounter;
-}
+};
 
-console.log(countBs(123));
+console.log(countBs("ABCBb"));
 
+const countChar = (string, char) => {
+  let charCounter = 0;
+  for (let i in string) {
+    if (string [i] === char)
+      ++charCounter;
+  }
+  return charCounter;
+};
+
+console.log(countChar("ABCDE", 'C'));
