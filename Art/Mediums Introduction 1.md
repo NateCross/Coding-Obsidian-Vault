@@ -8,4 +8,8 @@
     - Quick-draw method to convey concepts onto paper.
     - Sketching in itself is not the final product.
     - Pitching an idea; proof-of-concept.
+- Use negative and positive space to form an image.
+- Shade-blocking to form a texture.
+    - Putting a layer of shading on top of each other.
+![[Pasted image 20220204153913.png]]
 - 
