@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Webdev/1-Notes/202202031331.md",
+            "file": "Webdev/1-Notes/202202040953.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webdev/1-Notes/202202031331.md",
+                "file": "Webdev/1-Notes/202202040953.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webdev/1-Notes/202202031331.md"
+                "file": "Webdev/1-Notes/202202040953.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webdev/1-Notes/202202031331.md",
+                "file": "Webdev/1-Notes/202202040953.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "671338bbfba57b71",
@@ -157,6 +158,7 @@
   },
   "active": "3e9efa6a95666be0",
   "lastOpenFiles": [
+    "Webdev/1-Notes/202202040953.md",
     "Webdev/1-Notes/202202031331.md",
     "Webdev/1-Notes/CSS Units.md",
     "Webdev/1-Notes/202202010852-How-the-web-works.md",
@@ -165,7 +167,6 @@
     "Haskell/3-Books/Bryan O'Sullivan, John Goerzen, Don Stewart - Real World Haskell (2008, O'Reilly Media).pdf",
     "Lua/Lua.md",
     "Shell/4-Designs/Drawing 2022-01-31 11.28.31.excalidraw.md",
-    "General/1-Notes/Drawing 2022-01-28 09.56.27.excalidraw.md",
-    "General/3-Books/_The_Pragmatic_Programmer.pdf"
+    "General/1-Notes/Drawing 2022-01-28 09.56.27.excalidraw.md"
   ]
 }
