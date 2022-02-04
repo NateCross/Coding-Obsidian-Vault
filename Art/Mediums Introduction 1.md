@@ -12,4 +12,7 @@
 - Shade-blocking to form a texture.
     - Putting a layer of shading on top of each other.
 ![[Pasted image 20220204153913.png]]
-- 
+- H is more compact; for writing
+- B is darker. Used for drawing.
+- 6B - 12B: easier to smudge them.
+- When you draw on a surface hard enough, you can't really erase the marking—
