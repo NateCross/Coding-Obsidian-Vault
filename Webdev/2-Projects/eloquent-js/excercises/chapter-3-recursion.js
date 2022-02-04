@@ -11,8 +11,10 @@ const isEvenRecursive = num => {
     return true;
   else if (num == 1)
     return false;
-  else
-    return isEvenRecursive(num - 2);
+  else {
+    return num >= 0 ?
+      isEvenRecursive(num - 2) : isEvenRecursive(num + 2);
+  }
 }
 
 console.log(isEvenRecursive(50));
