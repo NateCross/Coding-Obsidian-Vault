@@ -15,4 +15,5 @@
 - H is more compact; for writing
 - B is darker. Used for drawing.
 - 6B - 12B: easier to smudge them.
-- When you draw on a surface hard enough, you can't really erase the marking—
+- When you draw on a surface hard enough, you can't really erase the marking
+![[Pasted image 20220204155023.png]]
