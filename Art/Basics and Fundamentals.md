@@ -23,4 +23,5 @@
 
 ## Principles
 - Rules
-- 
+![[Pasted image 20220213204306.png]]
+![[Pasted image 20220213204533.png]]
