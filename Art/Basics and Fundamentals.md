@@ -6,6 +6,8 @@
 ![[Pasted image 20220213200148.png]]
 - Don't use pure black; there's no such thing as pure black
 ![[Pasted image 20220213200418.png]]
+![[Pasted image 20220213200811.png]]
+![[Pasted image 20220213201112.png]]
 
 ## Principles
 - Rules
