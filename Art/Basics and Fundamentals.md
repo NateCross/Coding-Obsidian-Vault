@@ -3,6 +3,9 @@
 ## Elements
 - Pieces of a bigger picture
 ![[Pasted image 20220213195930.png]]
+![[Pasted image 20220213200148.png]]
+- Don't use pure black; there's no such thing as pure black
+![[Pasted image 20220213200418.png]]
 
 ## Principles
 - Rules
