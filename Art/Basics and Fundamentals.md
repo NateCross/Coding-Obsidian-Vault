@@ -13,6 +13,13 @@
 ![[Pasted image 20220213201429.png]]
 - Shape is outline. Form __is__ the object.
 - You only know there's an object there if it occupies space.
+![[Pasted image 20220213201809.png]]
+![[Pasted image 20220213201954.png]]
+- Two ways to add texture
+    - Illusion
+    -
+    - Physical, 3D materials
+    - 
 
 ## Principles
 - Rules
