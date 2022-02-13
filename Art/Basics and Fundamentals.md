@@ -17,7 +17,7 @@
 ![[Pasted image 20220213201954.png]]
 - Two ways to add texture
     - Illusion
-    -
+        - Different strokes; different types of shading
     - Physical, 3D materials
     - 
 
