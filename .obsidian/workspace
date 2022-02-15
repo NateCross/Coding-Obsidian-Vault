@@ -7,9 +7,9 @@
         "id": "3e9efa6a95666be0",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "image",
           "state": {
-            "file": "Excalidraw/Drawing 2022-02-15 12.37.14.excalidraw.md"
+            "file": "Excalidraw/Drawing 2022-02-15 12.37.14.excalidraw.png"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-02-15 12.37.14.excalidraw.md",
+                "file": "Excalidraw/Drawing 2022-02-15 12.37.14.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-02-15 12.37.14.excalidraw.md"
+                "file": "Excalidraw/Drawing 2022-02-15 12.37.14.excalidraw.png"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-02-15 12.37.14.excalidraw.md",
+                "file": "Excalidraw/Drawing 2022-02-15 12.37.14.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,15 +155,15 @@
   },
   "active": "3e9efa6a95666be0",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-02-15 12.37.14.excalidraw.png",
     "Excalidraw/Drawing 2022-02-15 12.37.14.excalidraw.md",
-    "_Projects/city-of-mist-bot/Untitled.md",
+    "_Projects/city-of-mist-bot/Layouts.md",
+    "_resources/Pasted Image 20220215123744_399.png",
     "Lua/Lua.md",
     "Art/Basics and Fundamentals.md",
     "Art/Mediums Introduction 1.md",
     "Webdev/1-Notes/202202041510.md",
     "Webdev/1-Notes/202202040953.md",
-    "Webdev/1-Notes/202202031331.md",
-    "Webdev/1-Notes/CSS Units.md",
-    "Webdev/1-Notes/202202010852-How-the-web-works.md"
+    "Webdev/1-Notes/202202031331.md"
   ]
 }
